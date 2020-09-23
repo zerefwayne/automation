@@ -36,7 +36,7 @@ class FileCreatedHandler(FileSystemEventHandler):
 
 
 def process_image(image_path):
-    # Sleeps for 1 second to simulate large file
+    # Sleeps for 1 second to simulate large filese
     time.sleep(1)
     print("Processing Image:", image_path)
     print(os.getcwd())
