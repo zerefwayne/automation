@@ -1,4 +1,4 @@
-## Image Resize 
+## Automated Image Resizer
 
 The script automates the process of converting images into 25%, 50%, 75% sized images.
 
