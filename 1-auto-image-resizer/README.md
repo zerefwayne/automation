@@ -16,3 +16,15 @@ Image conversion is implemented using **PIL** library. File changes are implemen
 
 1. PIL (pillow)
 2. watchdog
+
+### Comparison between single and multi threaded implementation
+
+To compare, 5 photos of substantial sizes will be added to pending folder.
+
+#### Single Threaded Demo
+
+![Single Threaded Demo](./single_threaded_demo.gif)
+
+#### Multi Threaded Demo
+
+![Multi Threaded Demo](./multi_threaded_demo.gif)
