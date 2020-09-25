@@ -4,6 +4,10 @@ A python script which sorts photos accoding to the people's faces.
 
 Motivation: Google Photos' feature of sorting your gallery according to different persons. I tried to implement the same using Python3 and [face_recognition](https://github.com/ageitgey/face_recognition) library.
 
+### Demo
+
+![Demo](https://github.com/zerefwayne/automation/blob/master/2-sort-album-by-people/sorter-demo.gif)
+
 ### Running instructions
 
 **(1/5) Install Python3 on your system.**  
