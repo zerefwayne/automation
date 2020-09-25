@@ -24,6 +24,8 @@ Collect photos of all the people in the same way and put them in a directory `kn
 
 Collect all the photos in formats `jpg|jpeg|svg|png` and save them in a directory `photos` (or any other name will do)
 
+[Example](https://github.com/zerefwayne/automation/tree/master/2-sort-album-by-people/photos)
+
 **Directory Structure**
 
 Once all the above instructions have been followed the structure of your folder must look like:
